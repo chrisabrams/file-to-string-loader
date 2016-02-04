@@ -1,0 +1,32 @@
+{
+  "name": "file-to-string-loader",
+  "version": "0.0.0",
+  "description": "Webpack loader that converts file contents to string and exports",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisabrams/file-to-string-loader.git"
+  },
+  "keywords": [
+    "File",
+    "String",
+    "Loader",
+    "Webpack"
+  ],
+  "author": "Chris Abrams <mail@chrisabrams.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisabrams/file-to-string-loader/issues"
+  },
+  "homepage": "https://github.com/chrisabrams/file-to-string-loader",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.14.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
+}
